@@ -23,7 +23,7 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
-  .container {
+  .sidebar {
 
     background-color: #3D0000;
     float: right;
@@ -91,4 +91,21 @@
   margin-left: 190px; 
   width:150px; 
   height:150px;
+}
+
+.sidebartext {
+
+  margin-left: 0px;
+}
+
+.button {
+
+  margin-left: 20px;
+  width: 157px; 
+  height: 55px; 
+  background-color:#270000;
+  color: rgb(255, 255, 255); 
+  font-size: 20px; 
+  font-family: Caesar Dressing; 
+  font-weight: 400; 
 }

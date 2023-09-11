@@ -23,7 +23,7 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
   
-  .container {
+  .sidebar {
 
     margin-top: 100px;
     background-color: #272727;
@@ -97,4 +97,21 @@
     margin-left: 220px; 
     width:150px; 
     height:150px;
+  }
+
+  .sidebartext {
+
+    margin-left: 50px;
+  }
+
+  .button {
+
+    margin-left: 60px;
+    width: 157px; 
+    height: 55px; 
+    background-color:#686868;
+    color: rgb(255, 255, 255); 
+    font-size: 20px; 
+    font-family: Caesar Dressing; 
+    font-weight: 400; 
   }
