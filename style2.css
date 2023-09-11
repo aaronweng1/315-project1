@@ -23,6 +23,16 @@
     font-family:Georgia, 'Times New Roman', Times, serif;
   }
   
+  .container {
+
+    background-color: #3D0000;
+    float: right;
+    margin-right: 100px;
+    width: 308px;
+    height: 263px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 2.50px white solid;
+  }
 
   .box {
     float: left; 
@@ -76,7 +86,13 @@
   }
 
   .hlink {
-
+    font-family:'Times New Roman', Times, serif;
     color:azure;
   }
   
+  .image{
+
+    margin-left: 220px; 
+    width:150px; 
+    height:150px;
+  }
