@@ -25,13 +25,15 @@
   
   .container {
 
-    background-color: #3D0000;
+    margin-top: 100px;
+    background-color: #272727;
     float: right;
     margin-right: 100px;
-    width: 308px;
-    height: 263px;
+    width: 300px;
+    height: 260px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: 2.50px white solid;
+    border-radius: 150px;
   }
 
   .box {
@@ -51,7 +53,7 @@
     margin: 0 auto;
     margin-left: 465px;
     width: 600px;
-    height: 550px;
+    height: 500px;
     background: rgb(77, 77, 77);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: 2.50px lightgray solid;
