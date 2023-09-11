@@ -1,4 +1,5 @@
-body {
+ 
+  body {
     font-family: Arial, sans-serif;
     background-color: #800000; 
     color: #000;
@@ -12,8 +13,15 @@ body {
     padding: 10px;
   }
 
-  container {
-    background-color: white;
+  .container {
+
+    background-color: #3D0000;
+    float: right;
+    margin-right: 100px;
+    width: 308px;
+    height: 263px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 2.50px white solid;
   }
   
   .box {
