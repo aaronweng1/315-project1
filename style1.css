@@ -58,3 +58,18 @@
   color: black; 
   font-size: 20px; 
 }
+
+.puretext {
+  padding-top:10px; 
+  justify-content: center; 
+  margin: 0 auto; 
+  align-items: center; 
+  text-align: center; 
+  width: 377px; 
+  height: 65px; 
+  color: white; 
+  font-size: 22px; 
+  font-weight: 400; 
+  word-wrap: break-word;
+  font-family:'Times New Roman', Times, serif;
+}
