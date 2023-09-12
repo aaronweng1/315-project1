@@ -44,7 +44,7 @@
   padding-top: 20px;
   margin-left: 490px;    
   width: 533px;
-  height: 500px;
+  height: 420px;
   background: white;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border: 2.50px black solid;
@@ -77,6 +77,14 @@
   text-align: center;
   color: black; 
   font-size: 20px; 
+}
+
+.qual { 
+  width: 514px; 
+  height: 300px; 
+  text-align: left;
+  color: black; 
+  font-size: 16px; 
 }
 
 .textQual {
