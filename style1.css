@@ -21,7 +21,7 @@
 
     background-color: #3D0000;
     float: right;
-    margin-right: 100px;
+    margin-right: 0 auto;
     width: 308px;
     height: 263px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -31,8 +31,7 @@
   .textbox {
     float: left;
     padding-top: 20px;
-    margin: 0 auto;
-    margin-left: 490px;
+    margin-left: 490px;    
     width: 533px;
     height: 350px;
     background: white;
@@ -82,7 +81,7 @@
 
 .image{
   margin-top: -20px;
-  margin-left: 190px; 
+  margin-left: 190px;
   width:150px; 
   height:150px;
 }
@@ -94,7 +93,8 @@
 
 .button {
 
-  margin-left: 20px;
+  /*margin-left: 20px;*/
+  margin-left: 0 auto;
   width: 157px; 
   height: 55px; 
   background-color:#270000;
