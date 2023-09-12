@@ -47,11 +47,24 @@
     margin: 0 auto;
     margin-right: 455px;
     width: 600px;
-    height: 500px;
+    height: 550px;
     background: rgb(77, 77, 77);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: 2.50px lightgray solid;
-    border-radius: 150px;
+    border-radius: 125px;
+  }
+
+  .textboxProf {
+    float: right;
+    padding-top: 40px;
+    margin: 0 auto;
+    margin-right: 455px;
+    width: 600px;
+    height: 600px;
+    background: rgb(77, 77, 77);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 2.50px lightgray solid;
+    border-radius: 120px;
   }
 
   .textboxQual {
@@ -60,11 +73,11 @@
     margin: 0 auto;
     margin-right: 455px;
     width: 600px;
-    height: 950px;
+    height: 1100px;
     background: rgb(77, 77, 77);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border: 2.50px lightgray solid;
-    border-radius: 150px;
+    border-radius: 120px;
   }
 
   .text {
@@ -85,7 +98,7 @@
     height: 300px;
     text-align: left;
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 400;
     word-wrap: break-word; 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -125,7 +138,7 @@
 
   .button {
 
-    margin-left: 60px;
+    margin-left: 70px;
     width: 157px; 
     height: 55px; 
     background-color:#686868;
