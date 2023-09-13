@@ -164,5 +164,20 @@
   font-size: 22px; 
   font-weight: 400; 
   word-wrap: break-word;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.headingai {
+  padding-top:10px; 
+  justify-content: center; 
+  margin: 0 auto; 
+  align-items: center; 
+  text-align: center; 
+  width: 377px; 
+  height: 100px; 
+  color: white; 
+  font-size: 16px; 
+  font-weight: 400; 
+  word-wrap: break-word;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
