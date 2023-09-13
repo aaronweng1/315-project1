@@ -93,6 +93,19 @@
     border-radius: 120px;
   }
 
+  .textboxAI {
+    float: right;
+    padding-top: 40px;
+    margin: 0 auto;
+    margin-right: 455px;
+    width: 600px;
+    height: 500px;
+    background: rgb(77, 77, 77);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 2.50px lightgray solid;
+    border-radius: 120px;
+  }
+
   .text {
     margin: 0 auto;
     width: 514px;
@@ -108,6 +121,18 @@
   .textQual {
     margin-left: 50px;
     width: 514px;
+    height: 300px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    word-wrap: break-word; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .textAI {
+    margin-left: 50px;
+    width: 470px;
     height: 300px;
     text-align: left;
     color: rgb(255, 255, 255);
@@ -220,7 +245,7 @@
     margin: 0 auto; 
     align-items: center; 
     text-align: center; 
-    width: 400px; 
+    width: 500px; 
     height: 150px; 
     color: white; 
     font-size: 22px; 
